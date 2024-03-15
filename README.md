@@ -18,6 +18,7 @@ O aplicativo apresenta uma série de telas que simulam funcionalidades comuns em
 Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 
 - Flutter SDK;
+- Dart SDK;
 - Editor de código (por exemplo, Visual Studio Code);
 - Emulador de dispositivo móvel ou dispositivo físico.
 
